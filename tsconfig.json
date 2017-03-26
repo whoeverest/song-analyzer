@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "outDir": "./build",
+    "target": "es6",
+    "noImplicitAny": true
+  },
+  "files": [
+    "app.ts"
+  ]
+}
